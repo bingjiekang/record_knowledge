@@ -1,0 +1,2 @@
+modal = __import__(变量) #modal 为一个模块（一个包）
+app = getattr(modat,函数）#app 为指向函数的引用
